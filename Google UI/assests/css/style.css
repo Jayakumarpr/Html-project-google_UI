@@ -1,0 +1,185 @@
+ body {
+
+    background-image: url(../img/5321733.jpg) ;
+ }
+
+* {
+
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    
+}
+
+
+
+
+.Sign-in {
+
+    float: right;
+    padding:  10px 20px;
+    margin-left: 0px;
+    margin-top:0px;
+    margin-bottom: 15px;
+    margin-right: 20px;
+    background-color: #1a73e8;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    
+}
+
+.Sign-in:hover {
+
+    background-color: #1a0dab;
+}
+
+
+
+
+
+/*logo-style*/
+.logo {
+
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 140px 0;
+}
+
+/*input-style*/
+input {
+
+    width: 400px;
+    padding: 14px 50px;
+
+    border-radius: 30px;
+    border: 1px solid #ccc;
+    background-image: url(../img/voice.svg);
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: right 15px center;
+
+
+
+
+
+}
+
+input:focus {
+
+    outline: none;
+    box-shadow: 2px 3px 4px 2px #ccc;
+
+}
+
+.input-search {
+
+    padding-top: 20px;
+}
+
+/*btn*/
+
+.button-set {
+
+    margin-top: 30px;
+
+
+}
+
+.btn {
+
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: #5f6368;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.button:focus {
+
+    outline: none;
+}
+
+
+
+/*lanuages*/
+
+div .lanuages {
+
+    margin-top: 40px;
+}
+
+ol.lanuages {
+
+    list-style-type: none;
+}
+
+ol.lanuages li {
+
+    display: inline;
+    margin-left: 15px;
+    font-size: 12px;
+}
+
+
+ol.lanuages li >a {
+
+    text-decoration: none;
+}
+
+/*footer*/
+
+footer {
+
+    position: fixed;
+    bottom: 0;
+    background-color: #f2f2f2;
+    padding: 15px;
+    width: 100%;
+    color:#70757a;
+    font-size: 12px;
+}
+
+footer ol >li {
+
+    display: inline;
+    padding: 1px;
+    margin-bottom: 5px;
+    margin-right: 15px;
+    
+}
+
+hr {
+
+    background-color: #ccc;
+    margin: 5px 0 ;
+}
+
+
+
+
+.Privacy {
+
+    float: right;
+}
+
+.settings {
+
+    float: right;
+    margin-left: 10px;
+}
+ 
+.terms {
+
+    float: right;
+}
+
+.tags {
+
+    display: inline;
+}
+
+
+
